@@ -18,7 +18,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I’m **Gopalan**, a **Top Rated AI/ML & Backend Engineer (Top 1% on Upwork)** with **8+ years of experience** building **real-world, production-grade AI systems**.
 
@@ -33,7 +33,7 @@ I help startups and enterprises turn AI ideas into **working products**, not dem
 
 ---
 
-## 🔥 What I Do Best
+## What I Do Best
 
 - Build **AI Agents & Multi-Agent Systems**
 - Design **MCP-powered secure architectures**
@@ -44,7 +44,7 @@ I help startups and enterprises turn AI ideas into **working products**, not dem
 
 ---
 
-## 🧠 AI / LLM Stack
+## AI / LLM Stack
 
 **LLMs & APIs**
 - OpenAI (GPT-4, GPT-4.1, GPT-o series)
@@ -65,7 +65,7 @@ I help startups and enterprises turn AI ideas into **working products**, not dem
 
 ---
 
-## 🧩 MCP (Model Context Protocol) – My Core Strength
+## MCP (Model Context Protocol) – My Core Strength
 
 I build **enterprise-grade MCP systems**:
 
@@ -80,7 +80,7 @@ I build **enterprise-grade MCP systems**:
 
 ---
 
-## 🎙️ Voice AI & Realtime
+## Voice AI & Realtime
 
 - LiveKit, Deepgram, Whisper
 - Amazon Polly, ElevenLabs
@@ -89,7 +89,7 @@ I build **enterprise-grade MCP systems**:
 
 ---
 
-## 🤖 Automation & Scraping
+## Automation & Scraping
 
 - Selenium, Playwright, BeautifulSoup
 - Data extraction & parsing pipelines
@@ -98,7 +98,7 @@ I build **enterprise-grade MCP systems**:
 
 ---
 
-## 🖥️ Backend Engineering
+## Backend Engineering
 
 - **Python, FastAPI, Django, Flask, Node.js**
 - PostgreSQL, MySQL, MongoDB, Redis
@@ -108,7 +108,7 @@ I build **enterprise-grade MCP systems**:
 
 ---
 
-## 🌐 Frontend & App
+## Frontend & App
 
 - React, Next.js, Tailwind CSS
 - HTML/CSS
@@ -116,7 +116,7 @@ I build **enterprise-grade MCP systems**:
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,nodejs,fastapi,django,flask,react,nextjs,tailwind,docker,kubernetes,aws,redis,postgres,mongodb,git,linux,nginx" />
