@@ -1,103 +1,110 @@
-<h3 align="center">
-  Welcome to Gopalan's GitHub Profile 👋
-</h3>
-
+<h1 align="center">Hi, I'm Gopalan 👋</h1>
 <p align="center">
-  <strong>Top Rated AI/ML & Backend Engineer | LLMs | AI Agents | MCP Architect</strong>
+  <strong>Top Rated AI/ML Engineer • LLMs • AI Agents • MCP Architect</strong>
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=800&height=45&lines=AI%2FML+Engineer+%7C+LLMs+%7C+AI+Agents;MCP+Expert+%7C+Multi-Agent+Systems+%7C+Automation;Voice+AI+%7C+Chatbots+%7C+Enterprise+AI+Pipelines;8%2B+Years+Backend+%7C+Python+%7C+FastAPI+%7C+Node.js" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&size=22&duration=3000&pause=800&center=true&vCenter=true&width=900&lines=AI%2FML+Engineer+%7C+LLMs+%7C+AI+Agents;MCP+Expert+%7C+Enterprise+AI+Systems;Voice+AI+%7C+Chatbots+%7C+Automation;8%2B+Years+Backend+%7C+Python+%7C+FastAPI+%7C+Node.js" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Upwork-Top%201%25-brightgreen" />
+  <img src="https://img.shields.io/badge/Job%20Success-100%25-success" />
+  <img src="https://img.shields.io/badge/Experience-8%2B%20Years-blue" />
+  <img src="https://img.shields.io/badge/Availability-Full--time-orange" />
 </p>
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
-I am **Gopalan**, a **Top Rated AI/ML & Backend Engineer (Top 1% on Upwork)** with **8+ years of experience** building **production-grade AI systems, LLM applications, AI agents, voice agents, and MCP-powered architectures**.
+I’m **Gopalan**, a **Top Rated AI/ML & Backend Engineer (Top 1% on Upwork)** with **8+ years of experience** building **real-world, production-grade AI systems**.
 
-I help startups and enterprises design and deploy **secure, scalable, real-world AI solutions** using modern LLM ecosystems and **Model Context Protocol (MCP)**.
+I specialize in:
+- **LLMs & AI Agents**
+- **Voice AI & Chatbots**
+- **MCP (Model Context Protocol) architectures**
+- **Automation & multi-agent workflows**
+- **Scalable backend systems**
 
-- 🔴 **Top 1% on Upwork | 100% Job Success**
-- 🔴 **Top 4% on StackOverflow**
-- 🔴 **AWS & Python Certified | 5⭐ Consistent Feedback**
-- 🔹 **Availability:** Full-time (40–50 hrs/week)
-- 🔹 Open to **long-term & enterprise AI projects**
+I help startups and enterprises turn AI ideas into **working products**, not demos.
 
 ---
 
-## 🎯 Core Expertise
+## 🔥 What I Do Best
 
-- **AI Agents & Multi-Agent Systems**
-- **LLMs, Chatbots & Voice Agents**
-- **Model Context Protocol (MCP) – Advanced Tooling & Architectures**
-- **Backend Engineering & AI Infrastructure**
-- **Automation Pipelines & Integrations**
+- Build **AI Agents & Multi-Agent Systems**
+- Design **MCP-powered secure architectures**
+- Create **Voice Agents & Realtime AI systems**
+- Develop **LLM pipelines & RAG systems**
+- Automate workflows using **AI + tools + MCP**
+- Deploy **production-ready backend services**
 
 ---
 
 ## 🧠 AI / LLM Stack
 
-**LLM Providers & APIs**
-- OpenAI (GPT-4, GPT-4.1, GPT-o Series)
-- Open-source LLMs → LLaMA 3, Mistral, Mixtral, Qwen, Gemma
+**LLMs & APIs**
+- OpenAI (GPT-4, GPT-4.1, GPT-o series)
+- LLaMA 3, Mistral, Mixtral, Qwen, Gemma
 
-**Frameworks & Orchestration**
+**Frameworks**
 - LangChain, LlamaIndex
 - LangGraph, LangServe, LangSmith
 - CrewAI, AutoGen
 
-**LLM Serving & Deployment**
+**Serving & Deployment**
 - vLLM, TGI, SGLang
 - Modal, AWS SageMaker
 
-**Fine-tuning & Optimization**
+**Fine-tuning**
 - LoRA, QLoRA, DPO, RLHF
 - AWQ, GPTQ, GGUF
 
 ---
 
-## 🧩 MCP (Model Context Protocol) Expertise
+## 🧩 MCP (Model Context Protocol) – My Core Strength
 
-I specialize in building **MCP-powered enterprise AI systems**:
+I build **enterprise-grade MCP systems**:
 
-- Custom **MCP Servers & Toolchains**
-- Secure **MCP tools for DB, file systems, CRM, ERP, analytics**
+- Custom **MCP servers & tools**
+- Secure **MCP tools for DB, files, CRM, ERP**
 - **Multi-tool orchestration using MCP**
-- **MCP + LangGraph / LangChain pipelines**
-- **Private API wrappers & enterprise data gateways using MCP**
-- **AI agent routing using MCP for complex workflows**
+- **MCP + LangGraph pipelines**
+- **Private API → MCP tool conversion**
+- **Agent routing using MCP**
+
+> If you want **serious, secure, scalable AI agents** – MCP is the backbone. That’s my zone.
 
 ---
 
-## 🖥️ Backend Engineering
+## 🎙️ Voice AI & Realtime
 
-- **Languages & Frameworks:** Python, FastAPI, Django, Flask, Node.js  
-- **Databases:** PostgreSQL, MySQL, MongoDB, Redis  
-- **Vector DBs:** Pinecone, Chroma, FAISS, Qdrant  
-- **Infra:** AWS (EC2, S3, ECR, Lambda), Docker, Kubernetes  
-- **DevOps:** Nginx, CI/CD (GitHub, GitLab, Bitbucket)  
-- **Testing:** Pytest, Unittest  
+- LiveKit, Deepgram, Whisper
+- Amazon Polly, ElevenLabs
+- Realtime voice agents
+- Voice-driven workflows
 
 ---
 
 ## 🤖 Automation & Scraping
 
 - Selenium, Playwright, BeautifulSoup
-- Data parsing & extraction pipelines
+- Data extraction & parsing pipelines
 - Telegram, WhatsApp, CRM, ERP bots
-- Advanced automation using **MCP + n8n**
+- **Advanced automation with MCP + n8n**
 
 ---
 
-## 🎙️ Voice AI & Realtime Systems
+## 🖥️ Backend Engineering
 
-- LiveKit, Deepgram, Whisper
-- Amazon Polly, ElevenLabs
-- Realtime Voice Agents
-- Voice-driven AI workflows
+- **Python, FastAPI, Django, Flask, Node.js**
+- PostgreSQL, MySQL, MongoDB, Redis
+- Pinecone, Chroma, FAISS, Qdrant
+- AWS (EC2, S3, Lambda, ECR), Docker, Kubernetes
+- Nginx, CI/CD (GitHub, GitLab, Bitbucket)
 
 ---
 
@@ -109,31 +116,10 @@ I specialize in building **MCP-powered enterprise AI systems**:
 
 ---
 
-## 🔌 API Integrations
-
-- OpenAI, Deepgram, ElevenLabs
-- Telegram, WhatsApp, Slack, Discord
-- Stripe, Binance, BetFair
-- Custom enterprise APIs
-- **API → MCP Tool conversion**
-
----
-
-## 🛠️ Tools & Technologies
+## 🛠️ Tech Stack
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,nodejs,fastapi,django,flask,react,nextjs,tailwind,docker,kubernetes,aws,redis,postgres,mongodb,git,linux,nginx" />
 </p>
 
 ---
-
-## 🔁 My Lifecycle
-
-```python
-while True:
-    design_ai_system()
-    build_agents()
-    integrate_mcp()
-    optimize_pipelines()
-    ship_to_production()
-    repeat()
